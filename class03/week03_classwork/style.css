@@ -1,0 +1,48 @@
+body {
+	background: lightgray;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	color: white;
+}
+
+#navbar {
+	background: black;
+	padding: 5px;
+	text-align: center;
+	font-style: helvetica;
+	font-size: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+#first {
+	background: orange;
+	color: purple;
+	padding: 10px;
+	text-align: center;
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#second {
+	background: orange;
+	color: green;
+	padding: 10px;
+	text-align: center;
+	margin: 10px;
+
+}
+
+#third {
+	background: orange;
+	color: yellow;
+	padding: 10px;
+	text-align: center;
+	margin: 10px;
+
+}
