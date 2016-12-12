@@ -1,0 +1,19 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+nav {
+	background: black;
+}
+a {
+	display: inline-block;
+	background-color: black;
+	padding: 15px;
+	color: white;
+	text-decoration: none;
+
+}
+
+a:hover{
+	background-color: orange;
+}
