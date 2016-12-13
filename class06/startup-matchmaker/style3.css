@@ -1,0 +1,39 @@
+.container{
+	width: 960px;
+	margin: 0, auto;
+}
+
+header, footer {
+	height: 150px;
+	border: solid 1px black;
+	clear: both;
+	margin: 10px;
+}
+
+/*article {
+	height: 600px;
+	float: left;
+	border: solid 1px black;
+	width: 23%;
+	margin: 10px;
+}*/
+
+main {
+	height: 600px;
+	border: solid 1px black;
+	width: 48%;
+	float: left;
+	margin: 10px;
+
+
+}
+
+aside {
+	height: 600px;
+	border: solid 1px black;
+	width: 23%;
+	float: left;
+	margin: 10px;
+
+}
+
