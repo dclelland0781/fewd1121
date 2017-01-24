@@ -1,0 +1,20 @@
+.row div {
+	outline: 1px solid black;
+	background: rgb(222, 222, 222);
+	height: 100px;
+	margin-top: 2%;
+}
+
+article {
+	background-color: red;
+	height: 100%;
+}
+
+div.left {
+	height: 250px;
+}
+
+div.right {
+	height: 250px;
+	/*float: right;*/
+}
