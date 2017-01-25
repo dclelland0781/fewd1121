@@ -1,17 +1,27 @@
+
+
 <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Temp Convertor</title>
+</head>
+	
 <html>
-	<head>
-		<title>Temp Converter</title>
-		<link rel="stylesheet" href="css/styles.css">
-	</head>
-	<body>
-		<div id="click_me">Click Me</div>
+<body>
+
+
 		<script src="https://code.jquery.com/jquery-2.2.2.min.js"></script>
 		<script src="js/app.js"></script>
-		<script>
-			$('#click_me').click(function(){
-				$('#click_me').html("I got clicked")
-			});
-		</script>
-	</body>
+
+
+<h1>Temperature Convertor</h1>
+
+<p>Insert a number into one of the input fields below:</p>
+
+<p><input id="c" onkeyup="convert('C')"> degrees Celsius</p>
+
+<p><input id="f" onkeyup="convert('F')"> degrees Fahrenheit</p> 
+
+</body>
 </html>
