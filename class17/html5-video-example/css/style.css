@@ -1,0 +1,13 @@
+#video { 
+	margin: 0 auto;
+
+	/*border: solid purple 10px ;
+	display: inline-block;
+	border-radius: 50px;*/
+	
+}
+
+#map{
+	border: solid red 2px;
+	border-radius: 75px;
+}
